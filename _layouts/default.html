@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | default: site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+    {% seo %}
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header" role="banner" aria-label="Site header">
+      <div class="container">
+        <p class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+        <p class="site-description">{{ site.description }}</p>
+        <nav class="site-nav" role="navigation" aria-label="Primary navigation">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/pages/transmission-view/' | relative_url }}">Transmission View</a></li>
+            <li><a href="{{ '/pages/meaning-and-culture/' | relative_url }}">Meaning and Culture</a></li>
+            <li><a href="{{ '/pages/interpretation-and-power/' | relative_url }}">Interpretation and Power</a></li>
+            <li><a href="{{ '/pages/interpretation-and-intention/' | relative_url }}">Interpretation and Intention</a></li>
+            <li><a href="{{ '/pages/what-to-do/' | relative_url }}">What the Reader Should Do</a></li>
+            <li><a href="{{ '/pages/how-i-built-this-site/' | relative_url }}">How I Built This Site</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="container" role="main" aria-label="Main content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer" role="contentinfo" aria-label="Site footer">
+      <div class="container">
+        <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}.</p>
+      </div>
+    </footer>
+  </body>
+</html>
