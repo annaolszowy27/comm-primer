@@ -1,6 +1,6 @@
 ---
 title: How I built this site
-lead: "A transparent account of the stack, structure, and workflow behind this project."
+lead: "A clear overview of the technology, structure, and workflow behind this assignment."
 permalink: /pages/how-i-built-this-site/
 ---
 
