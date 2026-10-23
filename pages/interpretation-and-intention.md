@@ -4,7 +4,8 @@ lead: "How Eco’s intentions help, and why intentio algorithmi names what class
 permalink: /pages/interpretation-and-intention/
 ---
 
-Umberto Eco’s framework distinguishes intention in layered ways, often discussed through authorial intent, textual intent, and readerly interpretation.
+Umberto Eco, a philosopher studying concepts called intentio lectoris which then connects with intentio algorithmi, laid out how important the receiver’s role is when understanding or interpreting a message being sent. He described how interpretations of messages are determined because of culture, experiences, wants, beliefs, and more.
+
 
 In AI communication environments, a further layer is useful: **intentio algorithmi**. This names the practical force of system behavior—how model training, optimization, and platform goals shape outputs regardless of any single human author’s intention.
 
