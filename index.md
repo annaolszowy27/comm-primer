@@ -5,7 +5,7 @@ lead: "A practical, reader-friendly guide to communication theory for today’s 
 
 ## Welcome
 
-Primer
+Communication can be complex and ever evolving, making it all the more important to understand what this means for the new era of AI. 
 
 The site focuses on practical interpretation. Each section examines one theoretical lens and asks: **what does this lens help us notice, and what does it miss?**
 
