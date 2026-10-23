@@ -26,7 +26,7 @@ This website's purpose is to explain and outline various communication theories 
   </article>
   <article class="card" aria-labelledby="card-3-title">
     <h2 id="card-3-title"><a href="{{ '/pages/interpretation-and-power/' | relative_url }}">Interpretation and power</a></h2>
-    <p>How encoding/decoding reveals struggles over interpretation and authority.</p>
+    <p>How encoding/decoding relates to interpretations of messages and what power means for what kind of content is seen</p>
   </article>
   <article class="card" aria-labelledby="card-4-title">
     <h2 id="card-4-title"><a href="{{ '/pages/interpretation-and-intention/' | relative_url }}">Interpretation and intention</a></h2>
