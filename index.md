@@ -34,7 +34,7 @@ This website's purpose is to explain and outline various communication theories 
   </article>
   <article class="card" aria-labelledby="card-5-title">
     <h2 id="card-5-title"><a href="{{ '/pages/what-to-do/' | relative_url }}">What the reader should do</a></h2>
-    <p>Practical guidance for personal and professional communication choices.</p>
+    <p>Words of guidance to understand today's communication processes and cautions</p>
   </article>
   <article class="card" aria-labelledby="card-6-title">
     <h2 id="card-6-title"><a href="{{ '/pages/how-i-built-this-site/' | relative_url }}">How I built this site</a></h2>
