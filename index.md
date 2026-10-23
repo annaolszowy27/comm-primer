@@ -22,7 +22,7 @@ This website's purpose is to explain and outline various communication theories 
   </article>
   <article class="card" aria-labelledby="card-2-title">
     <h2 id="card-2-title"><a href="{{ '/pages/meaning-and-culture/' | relative_url }}">Meaning and culture</a></h2>
-    <p>How semiotics explains meaning-making beyond message delivery.</p>
+    <p>How semiotics contribute to meanings and symbols.</p>
   </article>
   <article class="card" aria-labelledby="card-3-title">
     <h2 id="card-3-title"><a href="{{ '/pages/interpretation-and-power/' | relative_url }}">Interpretation and power</a></h2>
