@@ -30,7 +30,7 @@ This website's purpose is to explain and outline various communication theories 
   </article>
   <article class="card" aria-labelledby="card-4-title">
     <h2 id="card-4-title"><a href="{{ '/pages/interpretation-and-intention/' | relative_url }}">Interpretation and intention</a></h2>
-    <p>How Eco’s intentions and intentio algorithmi explain platform-era interpretation.</p>
+    <p>How Eco’s framework and extensions such as intentio algorithmi connect to AI and what interpretation means in today's era</p>
   </article>
   <article class="card" aria-labelledby="card-5-title">
     <h2 id="card-5-title"><a href="{{ '/pages/what-to-do/' | relative_url }}">What the reader should do</a></h2>
