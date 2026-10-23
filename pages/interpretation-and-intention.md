@@ -1,6 +1,6 @@
 ---
 title: Interpretation and intention
-lead: "How Eco’s intentions help, and why intentio algorithmi names what classical frameworks could not."
+lead: "What Eco’s intentions mean, how it relates to AI, and what questions does it generate for the modern way of communicating"
 permalink: /pages/interpretation-and-intention/
 ---
 
