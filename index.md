@@ -38,6 +38,6 @@ This website's purpose is to explain and outline various communication theories 
   </article>
   <article class="card" aria-labelledby="card-6-title">
     <h2 id="card-6-title"><a href="{{ '/pages/how-i-built-this-site/' | relative_url }}">How I built this site</a></h2>
-    <p>A transparent overview of structure, stack, and editorial workflow.</p>
+    <p>A transparent overview of structure, stack, and editorial workflow</p>
   </article>
 </section>
