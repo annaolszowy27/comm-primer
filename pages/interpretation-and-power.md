@@ -1,6 +1,6 @@
 ---
 title: Interpretation and power
-lead: "How Stuart Hall’s encoding/decoding explains who controls meaning."
+lead: "How Stuart Hall’s encoding/decoding affects the visibility of communication, explains how power controlls media"
 permalink: /pages/interpretation-and-power/
 ---
 
