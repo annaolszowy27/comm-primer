@@ -1,6 +1,6 @@
 ---
 title: Home
-lead: "A practical, reader-friendly guide to communication theory for today’s AI-shaped media environment."
+lead: "A clear, reader-friendly website to communication theory for today’s AI-shaped media environment."
 ---
 
 ## Welcome
