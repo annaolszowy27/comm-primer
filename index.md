@@ -5,7 +5,7 @@ lead: "A practical, reader-friendly guide to communication theory for today’s 
 
 ## Welcome
 
-This project introduces major schools of communication theory for readers who are not specialists but face everyday communication challenges. The goal is to make the commonplace visible: to show how theory can help explain confusion, conflict, misinformation, and misunderstanding in contemporary life.
+Primer
 
 The site focuses on practical interpretation. Each section examines one theoretical lens and asks: **what does this lens help us notice, and what does it miss?**
 
