@@ -1,6 +1,6 @@
 ---
 title: Meaning and culture
-lead: "What semiotics adds: how the phenomenon makes meaning, not just moves messages."
+lead: "How semiotics are received, what AI understands of symbols, and how emoticons contribute to semiotics"
 permalink: /pages/meaning-and-culture/
 ---
 
