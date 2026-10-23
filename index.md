@@ -18,11 +18,11 @@ This website's purpose is to explain and outline various communication theories 
 <section class="card-grid" aria-label="Overview of site sections">
   <article class="card" aria-labelledby="card-1-title">
     <h2 id="card-1-title"><a href="{{ '/pages/transmission-view/' | relative_url }}">Transmission view and limits</a></h2>
-    <p>How the Shannon-Weaver model introduces noise to communication and what is argued against regarding the model.</p>
+    <p>How the Shannon-Weaver model introduces noise to communication and what is argued against regarding the model</p>
   </article>
   <article class="card" aria-labelledby="card-2-title">
     <h2 id="card-2-title"><a href="{{ '/pages/meaning-and-culture/' | relative_url }}">Meaning and culture</a></h2>
-    <p>How semiotics contribute to meanings and symbols.</p>
+    <p>How semiotics contribute to meanings and symbols</p>
   </article>
   <article class="card" aria-labelledby="card-3-title">
     <h2 id="card-3-title"><a href="{{ '/pages/interpretation-and-power/' | relative_url }}">Interpretation and power</a></h2>
