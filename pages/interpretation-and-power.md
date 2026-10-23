@@ -4,10 +4,12 @@ lead: "How Stuart Hall’s encoding/decoding explains who controls meaning."
 permalink: /pages/interpretation-and-power/
 ---
 
-Stuart Hall’s encoding/decoding model emphasizes that communication is structured by power. Producers encode preferred meanings, but audiences may accept, negotiate, or oppose those meanings.
+Encoding and decoding are two concepts Stuart Hall studied, emphasizing the production of the message and then how that messaged is received, like Eco. Hall detailed individual steps of the communication process and how information is relayed to others through interpretation or understandings. 
 
-This framework helps explain why communication disputes are rarely just misunderstandings. They are often struggles over legitimacy, authority, and social position.
+According to Hall and his model, communication is not a linear process and enters varying phases upon creation. It goes through many forms until it is understood by the one receiving the message. Essentially, it is impossible to control how that message is going to be comprehended after it is sent. 
 
-For platform and AI contexts, this lens is crucial: interface design, recommendation logic, and moderation norms influence which readings become visible and which are marginalized.
+This means it is difficult for AI to give correct responses every time because it is only grasping what it can. It cannot always include important contexts or intentions when decoding.
 
-Use this lens when asking who benefits from a dominant interpretation and whose reading is excluded.
+Because messages are pushed out through media outlets in today’s technology scene, this means it can also be controlled. People have the power to hold something from being released or promoted to have more visibility. 
+
+Hall’s methods can be used when figuring out why multiple people interpret the same article, piece of film, or facet of media differently despite intaking the same content. 
