@@ -11,9 +11,9 @@ This website's purpose is to explain and outline various communication theories 
 
 ## How to use this primer
 
-- Start with the first section and move in order, or jump to the lens that matches your question.
-- Use each page to identify patterns in personal, workplace, and platform-mediated communication.
-- Compare lenses to see how technical, cultural, political, and interpretive models produce different insights.
+- Start with the first section and move through the theories in order, or click on the one that interests you the most. 
+- As you read, take note of any similar methods or patterns between the lenses. Utilize the website to compare ways of communication surrounding areas including personal or workplace use. 
+- Notice the way AI can be related to the models and how it is intertwined with current ways of communication. Apply critical thinking of these theories to modern day communication.  
 
 <section class="card-grid" aria-label="Overview of site sections">
   <article class="card" aria-labelledby="card-1-title">
