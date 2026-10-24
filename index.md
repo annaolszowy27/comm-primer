@@ -7,7 +7,7 @@ lead: "A clear, reader-friendly website to detail communication theory in an inc
 
 Communication can be complex and ever evolving, making it all the more important to understand what this means for the new era of AI. 
 
-This website's purpose is to explain and outline various communication theories and how their interpretations can be applied to the modernized technological world of AI. Each theory detailed will give descriptions of the lenses, what they help us see about communication, and the contested or missing parts of them as well. 
+This website's purpose is to explain and outline various communication theories and how their interpretations can be applied to the modernized technological world of AI. Each theory detailed will give descriptions of the lenses, what they help us see about communication, and how AI can contribute or challenge them. 
 
 ## How to use this primer
 
